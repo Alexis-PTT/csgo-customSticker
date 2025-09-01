@@ -1,1 +1,1 @@
-data scraping made heavily by chatgpt, the other files have no IA code
+the data scraping was made heavily by chatgpt, the algorythm have no IA code
