@@ -1,1 +1,1 @@
-the data scraping was made heavily by chatgpt, the algorythm have no IA code
+the data scraping was made heavily by chatgpt, the algorythm has no IA code
